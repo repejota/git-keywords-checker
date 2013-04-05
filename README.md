@@ -17,7 +17,7 @@ will stop you and tells where problem exist.
 About
 -----
 
-Such functions are likely to be never commited in a public repository or on live site, 
+Such functions are likely to be never commited in a public repository or on live site,
 when you are on rush, you forget about them.
 
 Contact
@@ -26,6 +26,10 @@ Contact
 *Boris Guéry*
 
 Feel free to drop me a line at: guery.b@gmail.com
+
+*Raül Pérez*
+
+Feel free to drop me a line at: repejota@gmail.com
 
 License
 -------
